@@ -7,43 +7,31 @@ and have hands-on experience deploying applications on **CentOS Linux, Nginx, an
 spans end-to-end development: designing architecture, building APIs, crafting responsive UIs, and optimizing
 deployments.<br><br>
 
-<br><br>
-
 ### 🔭 I’m currently working on<br>- Building enterprise applications using **.NET 8**,
 **Blazor**, and modern UI component libraries. <br>- Enhancing internal tools and client systems for pension funds, BPM
 systems, and digital services.<br><br>
 
-<br><br>### 🤝 I’m looking to collaborate on<br>- Open-source .NET projects
+### 🤝 I’m looking to collaborate on<br>- Open-source .NET projects
 <br>- Blazor component libraries <br>- Cloud-native applications (Docker, microservices) <br>- Tools that help
 developers build faster and smarter<br><br>
-
-<br><br>
 
 ### ❓ I’m looking for help with<br>- Improving my architecture
 skills for large-scale distributed systems <br>- Best practices for cloud deployments (AWS, Azure, GCP) <br>-
 Contributing more effectively to open-source communities<br><br>
-
-<br><br>
 
 ### 🌱 I’m currently learning<br>- **Go
 (Golang)** for backend performance and microservices <br>- **Rust** for systems programming and high-performance
 applications <br>- Cloud fundamentals to strengthen DevOps & deployment workflows <br>- Advanced Blazor patterns and
 clean architecture<br><br>
 
-<br><br>
-
 ### 💬 Ask me about<br>- Building full-stack applications in **C#/.NET + Blazor**
 <br>- REST API design & clean architecture <br>- Linux server deployment (CentOS + Nginx) <br>- SQL optimization &
 database design <br>- Working in a fast-paced software house environment <br>- How to start your journey as a .NET
 developer<br><br>
 
-<br><br>
-
 ### ⚡ Fun fact<br>When I'm not coding, I enjoy optimizing tools, exploring new frameworks,
 and improving my developer workflow. I love learning new technologies that help me think differently and build better
 systems.<br><br>
-
-<br><br>
 
 ### 📫 How to reach me<br>- Email: **azmi.codes@gmail.com**<br>- LinkedIn:
 [linkedin.com/in/figulazmi](https://www.linkedin.com/in/figulazmi)<br>- GitHub:
@@ -83,20 +71,6 @@ Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=R
 ![](https://github-readme-stats.vercel.app/api?username=figulazmi&theme=outrun&hide_border=false&include_all_commits=true&count_private=true)<br />
 ![](https://nirzak-streak-stats.vercel.app/?user=figulazmi&theme=outrun&hide_border=false)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=figulazmi&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=figulazmi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=figulazmi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
 
 [![](https://visitcount.itsvg.in/api?id=figulazmi&icon=0&color=0)](https://visitcount.itsvg.in)
 
