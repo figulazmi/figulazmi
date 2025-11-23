@@ -2,44 +2,51 @@
 
 ### 👋 Hi there, I'm Figur Ulul Azmi!<br>
 
-I'm a passionate **Full-Stack .NET Software Engineer** with 3 years of
-experience building scalable, secure, and efficient web applications across multiple industries—including finance,
-government, and enterprise environments.<br>
+I'm a passionate **Full-Stack .NET Software Engineer** with 3 years of experience building scalable, secure, and
+efficient web applications across multiple industries—including finance, government, and enterprise environments.<br>
 
-I specialize in **C#, ASP.NET (5–9), Blazor, MudBlazor, SQL Server**,
-and have hands-on experience deploying applications on **CentOS Linux, Nginx, and Windows Server IIS**. <br>
+I specialize in **C#, ASP.NET (5–9), Blazor, MudBlazor, SQL Server**, and have hands-on experience deploying
+applications on **CentOS Linux, Nginx, and Windows Server IIS**. <br>
 My work spans end-to-end development: designing architecture, building APIs, crafting responsive UIs, and optimizing
 deployments.<br>
 
-### 🔭 I’m currently working on<br>- Building enterprise applications using **.NET 8**,
-**Blazor**, and modern UI component libraries. <br>- Enhancing internal tools and client systems for pension funds, BPM
-systems, and digital services.<br>
+### 🔭 I’m currently working on<br>
+- Building enterprise applications using **.NET 8**, **Blazor**, and modern UI component libraries. <br>
+- Enhancing internal tools and client systems for pension funds, BPM systems, and digital services.<br>
 
-### 🤝 I’m looking to collaborate on<br>- Open-source .NET projects
-<br>- Blazor component libraries <br>- Cloud-native applications (Docker, microservices) <br>- Tools that help
-developers build faster and smarter<br>
+### 🤝 I’m looking to collaborate on<br>
+- Open-source .NET projects<br>
+- Blazor component libraries <br>
+- Cloud-native applications (Docker, microservices) <br>
+- Tools that help developers build faster and smarter<br>
 
-### ❓ I’m looking for help with<br>- Improving my architecture
-skills for large-scale distributed systems <br>- Best practices for cloud deployments (AWS, Azure, GCP) <br>-
-Contributing more effectively to open-source communities<br>
+### ❓ I’m looking for help with<br>
+- Improving my architecture skills for large-scale distributed systems <br>
+- Best practices for cloud deployments (AWS, Azure, GCP) <br>
+- Contributing more effectively to open-source communities<br>
 
-### 🌱 I’m currently learning<br>- **Go
-(Golang)** for backend performance and microservices <br>- **Rust** for systems programming and high-performance
-applications <br>- Cloud fundamentals to strengthen DevOps & deployment workflows <br>- Advanced Blazor patterns and
-clean architecture<br>
+### 🌱 I’m currently learning<br>
+- **Go (Golang)** for backend performance and microservices <br>
+- **Rust** for systems programming and high-performance applications <br>
+- Cloud fundamentals to strengthen DevOps & deployment workflows <br>
+- Advanced Blazor patterns and clean architecture<br>
 
-### 💬 Ask me about<br>- Building full-stack applications in **C#/.NET + Blazor**
-<br>- REST API design & clean architecture <br>- Linux server deployment (CentOS + Nginx) <br>- SQL optimization &
-database design <br>- Working in a fast-paced software house environment <br>- How to start your journey as a .NET
-developer<br>
+### 💬 Ask me about<br>
+- Building full-stack applications in **C#/.NET + Blazor**<br>
+- REST API design & clean architecture <br>
+- Linux server deployment (CentOS + Nginx) <br>
+- SQL optimization & database design <br>
+- Working in a fast-paced software house environment <br>
+- How to start your journey as a .NET developer<br>
 
 ### ⚡ Fun fact<br>When I'm not coding, I enjoy optimizing tools, exploring new frameworks,
 and improving my developer workflow. I love learning new technologies that help me think differently and build better
 systems.<br>
 
-### 📫 How to reach me<br>- Email: **azmi.codes@gmail.com**<br>- LinkedIn:
-[linkedin.com/in/figulazmi](https://www.linkedin.com/in/figulazmi)<br>- GitHub:
-[github.com/figulazmi](https://github.com/figulazmi)<br>
+### 📫 How to reach me<br>
+- Email: **azmi.codes@gmail.com**<br>
+- LinkedIn: [linkedin.com/in/figulazmi](https://www.linkedin.com/in/figulazmi)<br>
+- GitHub: [github.com/figulazmi](https://github.com/figulazmi)<br>
 
 ## 🌐 Socials:
 
