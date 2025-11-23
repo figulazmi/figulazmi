@@ -2,13 +2,10 @@
 
 ### 👋 Hi there, I'm Figur Ulul Azmi!<br>
 
-I'm a passionate **Full-Stack .NET Software Engineer** with 3 years of experience building scalable, secure, and
-efficient web applications across multiple industries—including finance, government, and enterprise environments.<br>
+I'm a passionate **Full-Stack .NET Software Engineer** with 3 years of experience building scalable, secure, and efficient web applications across multiple industries—including finance, government, and enterprise environments.<br>
 
-I specialize in **C#, ASP.NET (5–9), Blazor, MudBlazor, SQL Server**, and have hands-on experience deploying
-applications on **CentOS Linux, Nginx, and Windows Server IIS**. <br>
-My work spans end-to-end development: designing architecture, building APIs, crafting responsive UIs, and optimizing
-deployments.<br>
+I specialize in **C#, ASP.NET (5–9), Blazor, MudBlazor, SQL Server**, and have hands-on experience deploying applications on **CentOS Linux, Nginx, and Windows Server IIS**. <br>
+My work spans end-to-end development: designing architecture, building APIs, crafting responsive UIs, and optimizing deployments.<br>
 
 ### 🔭 I’m currently working on<br>
 - Building enterprise applications using **.NET 8**, **Blazor**, and modern UI component libraries. <br>
@@ -39,9 +36,8 @@ deployments.<br>
 - Working in a fast-paced software house environment <br>
 - How to start your journey as a .NET developer<br>
 
-### ⚡ Fun fact<br>When I'm not coding, I enjoy optimizing tools, exploring new frameworks,
-and improving my developer workflow. I love learning new technologies that help me think differently and build better
-systems.<br>
+### ⚡ Fun fact<br>
+When I'm not coding, I enjoy optimizing tools, exploring new frameworks, and improving my developer workflow. I love learning new technologies that help me think differently and build better systems.<br>
 
 ### 📫 How to reach me<br>
 - Email: **azmi.codes@gmail.com**<br>
