@@ -14,7 +14,7 @@
 - Experienced deploying applications on IIS, Linux Nginx, and Docker
 - Interested in cloud engineering, Go backend development, and high-scale systems
 - Current Focus: .NET 9, Blazor, Go, Clean Architecture, Cloud Deployment
-- Interested in: Distributed systems, performance engineering, 
+- Interested in: Distributed systems, performance engineering, system design
 
 ## 🌐 Socials:
 
