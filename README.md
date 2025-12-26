@@ -13,7 +13,7 @@
 - Strong understanding of backend architecture, clean code, and performance optimization
 - Experienced deploying applications on IIS, Linux Nginx, and Docker
 - Interested in cloud engineering, Go backend development, and high-scale systems
-- Current Focus: .NET 9, Blazor, Go, Clean Architecture, Cloud Deployment
+- Current Focus: .NET 9, Blazor, Go, Clean Architecture, 
 - Interested in: Distributed systems, performance engineering, system design
 
 ## 🌐 Socials:
