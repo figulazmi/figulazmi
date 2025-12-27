@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Azmi! <br/>
+# 👋 Hi there, I'm Figur Ulul Azmi! <br/>
 
 **Fullstack .NET Software Engineer | C#, ASP.NET Core | Blazor & Cloud Enthusiast**
 
