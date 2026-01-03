@@ -4,7 +4,7 @@
 
 🌟 Passionate about building scalable, clean, and production-ready web applications using .NET and modern frontend technologies. <br/>
 💡 Experienced across backend, frontend, API integration, deployment, and system design — especially on Windows Server IIS & Linux (CentOS + Nginx). <br/>
-🚀 Always learning new technologies such as Go, Rust, distributed systems, and cloud architecture. <br/>
+
 
 ## 💫 About Me:
 
