@@ -9,6 +9,7 @@
 ## 💫 About Me:
 
 - Fullstack Software Engineer with 3+ years experience in software house environment
+- Specialized in ASP.NET Core (5–9), C#, Blazor, MudBlazor, and REST API
 
 ## 🌐 Socials:
 
