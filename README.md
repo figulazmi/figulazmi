@@ -8,6 +8,7 @@
 
 ## 💫 About Me:
 
+- Fullstack Software Engineer with 3+ years experience in software house environment
 
 
 ## 🌐 Socials:
