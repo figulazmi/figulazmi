@@ -1,4 +1,4 @@
-
+# 👋 Hi there, I'm Figur Ulul Azmi! <br/>
 
 🌟 Passionate about building scalable, clean, and production-ready web applications using .NET and modern frontend technologies. <br/>
 💡 Experienced across backend, frontend, API integration, deployment, and system design — especially on Windows Server IIS & Linux (CentOS + Nginx). <br/>
