@@ -14,24 +14,26 @@
 
 ## 💼 Work Experience
 
-| Period | Project | Stack |
-|--------|---------|-------|
-| Aug 2025 – present | **E-Procurement & Tender Management** · PetroChina *(Oil & Gas)* | .NET 9 · Blazor WASM · CQRS/MediatR · EF Core · SQL Server · Hangfire |
-| Sep 2024 – Sep 2025 | **Homeplate** · Baseball Field Rental App *(Sole Developer)* | ASP.NET Core 9 · Blazor · SQL Server · Midtrans API · IIS |
-| Jun 2023 – Dec 2024 | **TDES** · PT. TASPEN (Persero) | .NET 5 · jQuery · SAP HANA · PostgreSQL · CentOS · Nginx |
-| Jan 2024 – May 2024 | **DPLK** · Media Indo Teknologi | .NET 8 · MudBlazor · SQL Server |
-| Sep 2022 – May 2023 | **BPM** · Lembaga Penjamin Simpanan (LPS) | .NET 6 · Blazor · SQL Server · CentOS · Nginx |
+| Period              | Project                                                          | Stack                                                                 |
+| ------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Aug 2025 – present  | **E-Procurement & Tender Management** · PetroChina _(Oil & Gas)_ | .NET 9 · Blazor WASM · CQRS/MediatR · EF Core · SQL Server · Hangfire |
+| Sep 2024 – Sep 2025 | **Homeplate** · Baseball Field Rental App _(Sole Developer)_     | ASP.NET Core 9 · Blazor · SQL Server · Midtrans API · IIS             |
+| Jan 2024 – May 2024 | **DPLK** · Media Indo Teknologi                                  | .NET 8 · MudBlazor · SQL Server                                       |
+| Jun 2023 – Dec 2024 | **TDES** · PT. TASPEN (Persero)                                  | .NET 5 · jQuery · SAP HANA · PostgreSQL · CentOS · Nginx              |
+| Sep 2022 – May 2023 | **BPM** · Lembaga Penjamin Simpanan (LPS)                        | .NET 6 · Blazor · SQL Server · CentOS · Nginx                         |
 
 ---
 
 ## 🛠️ Personal Projects
 
 ### [rag-gateway-mini](https://github.com/figulazmi/rag-gateway-mini) — Homelab AI Stack
+
 > `Qdrant` · `Ollama` · `n8n` · `ASP.NET Core` · `Docker Compose` · `Tailscale`
 
 Self-hosted AI infrastructure on a Linux VM: Qdrant (hybrid dense+sparse vector search) + Ollama (local LLM) + n8n (ingestion workflows) + a .NET RAG Gateway API, accessible via Tailscale VPN.
 
 ### RTK + RAG Capture Pipeline — AI Developer Tooling
+
 > `Python` · `Bash` · `Claude Code Hooks` · `Qdrant MCP`
 
 - **RTK** — intercepts Claude Code Bash commands for 60–99% token savings on builds, tests, and git ops
@@ -41,14 +43,14 @@ Self-hosted AI infrastructure on a Linux VM: Qdrant (hybrid dense+sparse vector 
 
 ## 💻 Tech Stack
 
-| Category | Technologies |
-|----------|-------------|
-| **Backend** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![MediatR](https://img.shields.io/badge/CQRS%2FMediatR-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Hangfire](https://img.shields.io/badge/Hangfire-1F1F1F?style=for-the-badge&logo=nuget&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=Swagger&logoColor=white) |
-| **Frontend** | ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white) ![MudBlazor](https://img.shields.io/badge/MudBlazor-1E88E5?style=for-the-badge&logo=blazor&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Database** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=for-the-badge&logoColor=white) |
-| **AI / Automation** | ![Ollama](https://img.shields.io/badge/Ollama-1A1A1A?style=for-the-badge&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![IIS](https://img.shields.io/badge/IIS-0078D6?style=for-the-badge&logo=microsoft&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white) |
-| **Tools** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Scalar](https://img.shields.io/badge/Scalar-1A1A1A?style=for-the-badge&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
+| Category            | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Backend**         | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![MediatR](https://img.shields.io/badge/CQRS%2FMediatR-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Hangfire](https://img.shields.io/badge/Hangfire-1F1F1F?style=for-the-badge&logo=nuget&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=Swagger&logoColor=white) |
+| **Frontend**        | ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white) ![MudBlazor](https://img.shields.io/badge/MudBlazor-1E88E5?style=for-the-badge&logo=blazor&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)                                                                                                                             |
+| **Database**        | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=for-the-badge&logoColor=white)                                                                                                                                                                                                               |
+| **AI / Automation** | ![Ollama](https://img.shields.io/badge/Ollama-1A1A1A?style=for-the-badge&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)                                                                                                                                                                                                                                                                                                                                                          |
+| **DevOps**          | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![IIS](https://img.shields.io/badge/IIS-0078D6?style=for-the-badge&logo=microsoft&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)                          |
+| **Tools**           | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Scalar](https://img.shields.io/badge/Scalar-1A1A1A?style=for-the-badge&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)                                                                                                                                   |
 
 ---
 
