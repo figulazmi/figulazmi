@@ -2,6 +2,7 @@
 
 **Fullstack .NET Engineer · AI-Augmented Developer**
 
+3+ years · 5 enterprise projects
 
 > 💡 I work RAG-first — Qdrant knowledge bases, local LLMs, and custom AI tooling are part of my daily development workflow.
 
