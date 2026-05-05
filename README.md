@@ -39,6 +39,22 @@ Self-hosted AI infrastructure on a Linux VM: Qdrant (hybrid dense+sparse vector 
 - **RTK** — intercepts Claude Code Bash commands for 60–99% token savings on builds, tests, and git ops
 - **RAG Capture** — structures coding sessions into a knowledge base, pushed to Qdrant and queryable via MCP in future sessions
 
+### Homelab Runtime Stack
+
+> `Proxmox` · `Docker` · `Portainer` · `n8n` · `Uptime Kuma` · `Qdrant` · `Ollama`
+
+| Tool | Role | Link |
+| ---- | ---- | ---- |
+| Multica | Multi-agent runtime orchestration | [GitHub](https://github.com/multica-ai/multica) |
+| OpenClaw | Gateway/control layer for agent access workflows | [GitHub](https://github.com/openclaw/openclaw) |
+| Hermes Agent | Personal agent runtime integrated with Qdrant + Ollama | [GitHub](https://github.com/nousresearch/hermes-agent) |
+| 9router | Model routing layer for AI calls | [GitHub](https://github.com/decolua/9router) |
+| n8n | Ingestion and automation workflows | [GitHub](https://github.com/n8n-io/n8n) |
+| Portainer | Docker service operations dashboard | [GitHub](https://github.com/portainer/portainer) |
+| Proxmox | Virtualization host platform | [GitHub](https://github.com/proxmox) |
+| rag-gateway-mini | .NET RAG API gateway for homelab services | [GitHub](https://github.com/figulazmi/rag-gateway-mini) |
+| Uptime Kuma | Service uptime monitoring | [GitHub](https://github.com/louislam/uptime-kuma) |
+
 ---
 
 ## 💻 Tech Stack
@@ -54,10 +70,16 @@ Self-hosted AI infrastructure on a Linux VM: Qdrant (hybrid dense+sparse vector 
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Focus Areas
 
-![](https://github-readme-stats.vercel.app/api?username=figulazmi&theme=outrun&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=figulazmi&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=figulazmi&theme=outrun&hide_border=false)
+- Enterprise web application development with ASP.NET Core, Blazor, EF Core, and SQL Server
+- Clean Architecture with CQRS/MediatR, background jobs (Hangfire), and production CI/CD workflows
+- AI-augmented development using RAG pipelines, Qdrant, Ollama, and custom Claude Code tooling
 
-[![](https://visitcount.itsvg.in/api?id=figulazmi&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+## 📈 Activity
+
+GitHub contribution graph is available natively on my profile page below this README.
+
+Most of my professional work is in private enterprise repositories, so public activity represents only part of my development output.
