@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__qdrant-knowledge__search_knowledge",
+      "WebFetch(domain:github.com)"
+    ]
+  }
+}
