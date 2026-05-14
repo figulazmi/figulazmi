@@ -2,6 +2,7 @@
 
 **Fullstack .NET Engineer · AI Native Builder**
 
+3+ years · 5 enterprise projects · ASP.NET Core · Blazor · Clean Architecture
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/figulazmi)
