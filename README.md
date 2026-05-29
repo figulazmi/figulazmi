@@ -36,7 +36,7 @@ Self-hosted AI infrastructure on a Linux VM: Qdrant (hybrid dense+sparse vector 
 
 > `Python` · `Bash` · `Claude Code Hooks` · `Qdrant MCP`
 
-
+- **RTK** — intercepts Claude Code Bash commands for 60–99% token savings on builds, tests, and git ops
 
 ### Homelab Runtime Stack
 
