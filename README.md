@@ -1,6 +1,4 @@
-# 👋 Figur Ulul Azmi
 
-**Fullstack .NET Engineer · AI Native Builder**
 
 3+ years · 5 enterprise projects · ASP.NET Core · Blazor · Clean Architecture
 
