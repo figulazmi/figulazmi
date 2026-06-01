@@ -78,8 +78,3 @@ Self-hosted AI infrastructure on a Linux VM: Qdrant (hybrid dense+sparse vector 
 
 ---
 
-## 📈 Activity
-
-GitHub contribution graph is available natively on my profile page below this README.
-
-Most of my professional work is in private enterprise repositories, so public activity represents only part of my development output.
