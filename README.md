@@ -78,3 +78,4 @@ Self-hosted AI infrastructure on a Linux VM: Qdrant (hybrid dense+sparse vector 
 
 ---
 
+## 📈 Activity
