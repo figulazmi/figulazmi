@@ -12,6 +12,7 @@
 
 ---
 
+## 💼 Work Experience
 
 
 ## 🛠️ Personal Projects
