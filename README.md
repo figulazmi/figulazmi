@@ -12,17 +12,7 @@
 
 ---
 
-## 💼 Work Experience
 
-| Period              | Project                                                          | Stack                                                                           |
-| ------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| Aug 2025 – present  | **E-Procurement & Tender Management** · PetroChina _(Oil & Gas)_ | .NET 9 · Blazor WASM · CQRS/MediatR · EF Core · SQL Server · Hangfire · Jenkins |
-| Sep 2024 – Sep 2025 | **Homeplate** · Baseball Field Rental App _(Sole Developer)_     | ASP.NET Core 9 · Blazor · SQL Server · Midtrans API · IIS                       |
-| Jan 2024 – May 2024 | **DPLK** · Media Indo Teknologi                                  | .NET 8 · MudBlazor · SQL Server                                                 |
-| Jun 2023 – Dec 2024 | **TDES** · PT. TASPEN (Persero)                                  | .NET 5 · jQuery · SAP HANA · PostgreSQL · CentOS · Nginx                        |
-| Sep 2022 – May 2023 | **BPM** · Lembaga Penjamin Simpanan (LPS)                        | .NET 6 · Blazor · SQL Server · CentOS · Nginx                                   |
-
----
 
 ## 🛠️ Personal Projects
 
