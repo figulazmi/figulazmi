@@ -1,6 +1,6 @@
 # 👋 Figur Ulul Azmi
 
-
+**Fullstack .NET Engineer · AI Native Builder**
 
 > 💡 I work RAG-first — Qdrant knowledge bases, local LLMs, and custom AI tooling are part of my daily development workflow.
 
