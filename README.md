@@ -1,8 +1,6 @@
 # 👋 Figur Ulul Azmi
 
-**Fullstack .NET Engineer · AI Native Builder**
 
-3+ years · 5 enterprise projects · ASP.NET Core · Blazor · Clean Architecture
 
 > 💡 I work RAG-first — Qdrant knowledge bases, local LLMs, and custom AI tooling are part of my daily development workflow.
 
